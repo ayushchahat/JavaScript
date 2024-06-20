@@ -1,9 +1,9 @@
 // There are two types of datatype:
-// 1.Premitive :- Call by value
+// 1.Premitive :- Call by value :- Stack Memory used here
 
 // 7 types: String, Number ,Boolean, null, undefined, symbol,BigInt
 
-//2. Non Primitive:- Call by reference
+//2. Non Primitive:- Call by reference :-Heap memory used here
 
 // Array,Objects,Functions
 
